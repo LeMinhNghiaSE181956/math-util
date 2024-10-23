@@ -12,4 +12,4 @@
 ### Screen-shots
 ![JUnit and Maven](https://github.com/LeMinhNghiaSE181956/math-util/blob/main/screenshots/JUnit%20and%20Maven.png)
 
-#### &#169; 2024 minhthienus
+#### &#169; 2024 minhnghiale
