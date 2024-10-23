@@ -1,4 +1,4 @@
-[![Math Utility Project (CI included) | © 2024 by minhthienus](https://github.com/LeMinhNghiaSE181956/math-util/actions/workflows/ci-script-with-junit.yml/badge.svg)](https://github.com/LeMinhNghiaSE181956/math-util/blob/main/.github/workflows/ci-script-with-junit.yml)
+[![Math Utility Project (CI included) | © 2024 by minhnghiale](https://github.com/LeMinhNghiaSE181956/math-util/actions/workflows/ci-script-with-junit.yml/badge.svg)](https://github.com/LeMinhNghiaSE181956/math-util/blob/main/.github/workflows/ci-script-with-junit.yml)
 
 # Math Utility (Maven project)
 
